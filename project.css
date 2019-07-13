@@ -1,0 +1,45 @@
+body{
+	background-color: grey;
+}
+.pro{
+	padding-left:25px;
+  padding-top: 10px;
+	color: green;
+	font-size: 25px;
+	border-width: 15px;
+  border-color: white;
+  background-color: white;
+  border-radius: 50px;
+  border-right: 50px;
+  font-family: sans-serif;
+}
+
+h1{
+	font-size: 60px;
+  color: black;
+	text-align: center;
+	font-family: arial;
+	border-width: 15px;
+  border-color: white;
+  border-radius: 30px;
+  border-right: 100px;
+  padding-right: 20px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: red;
+  padding-left: 70px;
+}
+
+.topnav a {
+  float: initial;
+  color: white;
+  text-align: center;
+  padding: 30px 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+a:hover{
+  background-color:green;
+}
+

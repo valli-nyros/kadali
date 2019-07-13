@@ -1,0 +1,51 @@
+body{
+color: black;
+background-color: grey;
+}
+.ed{
+  background-color: white;
+  border-radius: 40px;
+  font-size: 5px;
+  padding-bottom: 0px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+h1{
+	text-align: left;
+	font-size: 30px;
+	padding-right: 40px;
+}
+h2
+{
+	font-size: 60px;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 30px;
+}
+.row{
+  text-align: left;
+  font-size: 40px;
+  color: black;
+}
+.topnav {
+  overflow: hidden;
+  background-color: red;
+  padding-left: 100px;
+}
+.topnav a {
+  float: initial;
+  color: white;
+  text-align: center;
+  padding: 30px 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.pager{
+  font-size: 30px;
+}
+.top{
+  padding-left: 50px;
+  color: white;
+  
+
+  }

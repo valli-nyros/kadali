@@ -1,0 +1,48 @@
+body{
+	background-color: grey;
+}
+.wrapper{
+	border-collapse: collapse;
+	font-size: 30px;
+	padding-right: 15px;
+	padding-left: 100px;
+	padding-top: 20px;
+	text-align: left;
+	border-radius: 30px;
+	border-width: 50px;
+	background-color: white;
+
+}
+	.item1{
+	       color: black;
+	}
+	.item2{
+		color: black;
+	}
+	.item3{
+		color: black;
+	}
+
+h1{
+	text-align: center;
+	font-size: 60px;
+	color: black;
+}
+.topnav {
+  overflow: hidden;
+  background-color: red;
+  padding-left: 70px;
+}
+
+.topnav a {
+  float: initial;
+  color: white;
+  text-align: center;
+  padding: 30px 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+a:hover{
+  background-color:green;
+}
+
